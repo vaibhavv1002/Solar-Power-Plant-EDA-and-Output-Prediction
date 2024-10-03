@@ -1,4 +1,4 @@
-# AI
+# Solar-Power-Plant-EDA-and-Output-Prediction
 -Performed thorough exploratory data analysis (EDA) to identify key patterns and trends in solar power output under varying environmental conditions.
 
 
